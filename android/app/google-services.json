@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "49857206686",
+    "project_id": "toms-2026",
+    "storage_bucket": "toms-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49857206686:android:c1d8a40393a26508999e8f",
+        "android_client_info": {
+          "package_name": "com.apdir.toms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyVAWdCklf1TS2INioUFZ8rvxim1hvEAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49857206686:android:24f34196bcbc6fbb999e8f",
+        "android_client_info": {
+          "package_name": "com.toms.toms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyVAWdCklf1TS2INioUFZ8rvxim1hvEAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

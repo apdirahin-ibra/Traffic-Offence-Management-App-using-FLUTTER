@@ -1,0 +1,5 @@
+package com.toms.toms
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
